@@ -38,19 +38,17 @@ pip install -r requirements.txt
 
 This project requires a dataset from Kaggle. Follow these steps to download it:
 
-    1. Sign in to [Kaggle](https://www.kaggle.com/)
+1. Sign in to [Kaggle](https://www.kaggle.com/)
 
-    2. Go to your *account settings*
+2. Go to your *account settings*
+	- Click on your *profile* > *Account*
 
-         Click on your *profile* > *Account*
-
-    3. *Scroll down to ‘API’* and click on *‘Create New API Token’*
-
-        This will download a file named *kaggle.json*
+3. *Scroll down to ‘API’* and click on *‘Create New API Token’*
+	- This will download a file named *kaggle.json*
 
 
 
-##🎯 Generate the movie_data.pkl File
+## 🎯 Generate the movie_data.pkl File
 
 ### 4️⃣Run the Jupyter Notebook
 
@@ -73,7 +71,7 @@ streamlit run app.py
 ```
 
 
-##📌 Project Structure
+## 📌 Project Structure
 
 ```sh
 📂 Movie-Recommendation-System
@@ -88,7 +86,7 @@ streamlit run app.py
 ```
 
 
-##🔑 API Key Setup
+## 🔑 API Key Setup
 
 This project uses The Movie Database (TMDB) API to fetch posters.
 Replace the api_key in app.py with your own TMDB API key:
@@ -98,9 +96,8 @@ api_key = "your_tmdb_api_key_here"
 Get a free API key from [TMDB](https://www.themoviedb.org/).
 
 ##🔥 Demo
-
-    Example output:
-    Movie Recommendation System UI
+- Example output:
+![Movie Recommendation System UI](https://github.com/SHIGINVP/Movie-Recommendation-System/blob/main/Movie_Recommendation_System_UI.png)
 
 ## 📌 Requirements
 
@@ -108,7 +105,7 @@ Check `requirements.txt` for dependencies.
 
 
 
-📜 License
+## 📜 License
 
 This project is licensed under the MIT License.
 
