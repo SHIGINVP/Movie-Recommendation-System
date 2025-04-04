@@ -40,11 +40,11 @@ This project requires a dataset from Kaggle. Follow these steps to download it:
 
 1. Sign in to [Kaggle](https://www.kaggle.com/)
 
-2. Go to your *account settings*
-	- Click on your *profile* > *Account*
+2. Go to your **account settings**
+	- Click on your **profile** > **Account**
 
-3. *Scroll down to ‘API’* and click on *‘Create New API Token’*
-	- This will download a file named *kaggle.json*
+3. **Scroll down to ‘API’** and click on **‘Create New API Token’**
+	- This will download a file named **kaggle.json**
 
 
 
@@ -95,7 +95,7 @@ api_key = "your_tmdb_api_key_here"
 
 Get a free API key from [TMDB](https://www.themoviedb.org/).
 
-##🔥 Demo
+## 🔥 Demo
 - Example output:
 ![Movie Recommendation System UI](https://github.com/SHIGINVP/Movie-Recommendation-System/blob/main/Movie_Recommendation_System_UI.png)
 
