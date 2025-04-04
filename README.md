@@ -17,9 +17,10 @@ It recommends **10 similar movies** based on **cosine similarity** of TF-IDF vec
 ## 🛠️ Installation
 
 ### 1️⃣ Clone the Repository  
-```sh
+```sh 
 git clone https://github.com/your_username/Movie-Recommendation-System.git
 cd Movie-Recommendation-System
+```
 
 
 ### 2️⃣ Install Dependencies
@@ -49,8 +50,9 @@ This project requires a dataset from Kaggle. Follow these steps to download it:
 
 
 
-🎯 Generate the movie_data.pkl File
-4️⃣Run the Jupyter Notebook
+##🎯 Generate the movie_data.pkl File
+
+### 4️⃣Run the Jupyter Notebook
 
 Before running the Streamlit app, you must generate `movie_data.pkl`:
 
@@ -93,7 +95,7 @@ Replace the api_key in app.py with your own TMDB API key:
 
 api_key = "your_tmdb_api_key_here"
 
-Get a free API key from TMDB.
+Get a free API key from [TMDB](https://www.themoviedb.org/).
 
 ##🔥 Demo
 
