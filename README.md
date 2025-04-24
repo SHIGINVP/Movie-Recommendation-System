@@ -18,7 +18,7 @@ It recommends **10 similar movies** based on **cosine similarity** of TF-IDF vec
 
 ### 1️⃣ Clone the Repository  
 ```sh 
-git clone https://github.com/your_username/Movie-Recommendation-System.git
+git clone https://github.com/SHIGINVP/Movie-Recommendation-System.git
 cd Movie-Recommendation-System
 ```
 
