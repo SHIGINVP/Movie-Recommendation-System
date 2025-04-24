@@ -10,7 +10,6 @@ It recommends **10 similar movies** based on **cosine similarity** of TF-IDF vec
 - 🎭 **Get 10 similar movie recommendations** based on content similarity.
 - 🖼️ **View movie posters** fetched dynamically from the TMDB API.
 - 📜 **See a short overview** of each recommended movie.
-- ⚠️ **Warning if no movie is selected** before clicking "Recommend."
 
 ---
 
